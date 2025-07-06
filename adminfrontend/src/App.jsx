@@ -12,7 +12,7 @@ import Login from "./components/Login/Login";
 
 
 const App = () => {
-  const url = 'https://ComfortCovesdemo.onrender.com'
+  const url = 'https://comfortcovesadmin.vercel.app'
   //const url = "http://localhost:4000"
   return (
     <div>
