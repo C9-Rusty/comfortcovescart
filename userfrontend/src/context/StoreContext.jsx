@@ -12,7 +12,7 @@ const StoreContextProvider = ({children})=>{
     const [token,setToken] = useState(null)
     const [product_list,setProductList] = useState(localProductList)
     
-    const url='https://ComfortCovesdemo.onrender.com'
+    const url='https://comfortcovescart.onrender.com'
     //const url ="http://localhost:4000"
 
     const fetchProductList = async()=>{
